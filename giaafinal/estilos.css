@@ -1,0 +1,61 @@
+.perfumes {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 45px;
+
+}
+
+article {
+    display: flex;
+    flex-direction: column;
+
+    flex: 1 1 200px;
+    color: #231958;
+}
+
+.cremas {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 45px
+}
+
+h2 {
+    color: #15103a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+h3 {
+    color: #000000;
+}
+
+a {
+    color: #faf9fa;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #6558a7;
+
+
+    gap: 30px;
+}
+    .barra { height: 70px; padding: 0 20px; background: #bf88ca; }
+
+body {
+    background-color: #bb9cd1;
+}
+
+.inicio {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+footer {
+    color: #4d1474;
+}
